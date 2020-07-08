@@ -4,7 +4,7 @@ class Demo extends Component {
   constructor() {
     super()
     this.state = {
-      list: ['1', '2', '3']
+      list: ['1', '2', '3', '4']
     }
   }
   render() {
